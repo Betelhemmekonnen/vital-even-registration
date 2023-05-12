@@ -43,7 +43,7 @@
       <h1 align="center">login</h1>
 	<div class="lolo">
       <form id="bb" action="#" method="post">
-	     <p>email</p>
+	     <p>Email</p>
 		 <input type="text" name="user">
 	     <p>password</p>
 		 <input type="password" name="pass"><br>
